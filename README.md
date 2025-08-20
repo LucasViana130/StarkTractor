@@ -1,22 +1,25 @@
 # 🚜 Stark Tractor
 
-Bem-vindo ao **Stark Tractor**, um site institucional desenvolvido para apresentar a empresa, seus serviços e facilitar o contato com clientes.  
-O foco do projeto é oferecer **um layout moderno, responsivo e funcional**, garantindo uma boa experiência em qualquer dispositivo.  
+Welcome to **Stark Tractor**, an institutional website developed to showcase the company, its services, and facilitate client contact.  
+The project focuses on delivering a **modern, responsive, and functional layout**, ensuring a great experience on any device.
 
 ---
 
-## 📌 Funcionalidades
+## 📌 Features
 
-- Página inicial com informações sobre a empresa  
-- Página **Empresa** com apresentação institucional  
-- Página **Contato** com formulário funcional para envio de mensagens via e-mail  
-- Layout **totalmente responsivo** para celulares, tablets e desktops  
-- Estrutura de código organizada e reutilizável (headers unificados e limpos)  
+- 🏠 **Home Page** with company information  
+- 🏢 **Company Page** with institutional presentation  
+- ✉️ **Contact Page** with a functional email form  
+- 📱 Fully **responsive layout** for mobile, tablet, and desktop  
+- 🔧 **Clean and reusable code structure** (unified headers and organized files)  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- ⚡ **JavaScript**  
+
+
+
